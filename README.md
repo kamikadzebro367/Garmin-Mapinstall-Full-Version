@@ -236,4 +236,4 @@ This repository serves as the official landing page for Garmin MapInstall. The s
 **Get the most recent version of Garmin MapInstall today!**
 
 ---
-**Last updated:** 2026-09-12 22:09:52 UTC
+**Last updated:** 2026-09-13 00:48:00 UTC
